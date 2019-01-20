@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

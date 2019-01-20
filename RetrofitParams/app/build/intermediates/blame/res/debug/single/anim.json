@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/busko/.android/build-cache/88f3503460f24338e436280aba801a916233121f/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/busko/.android/build-cache/88f3503460f24338e436280aba801a916233121f/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/busko/.android/build-cache/88f3503460f24338e436280aba801a916233121f/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/busko/.android/build-cache/88f3503460f24338e436280aba801a916233121f/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/busko/.android/build-cache/88f3503460f24338e436280aba801a916233121f/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/busko/.android/build-cache/88f3503460f24338e436280aba801a916233121f/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/anim/abc_popup_exit.xml"
+    }
+]

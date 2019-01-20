@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/media/busko/e924f631-5b47-48e8-9127-2fbe07c23cb21/LyndaExFiles/EX_FilesAndroid/Ex_Files_Android_Apps_RESTful_Upd/Exercise Files/Ch07/07_04/RetrofitParams/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/busko/.android/build-cache/aff386d617b974c01470866f1ade0fa6c908f34d/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]
